@@ -25,5 +25,5 @@
 </code>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKelly00&theme=cobalt" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkKelly00&show_icons=true&hide=contribs,issues&theme=cobalt" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKelly00&theme=merko" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkKelly00&show_icons=true&hide=contribs,issues&theme=merko" />
