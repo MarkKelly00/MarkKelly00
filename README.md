@@ -1,10 +1,14 @@
 ### Hey there, I'm Mark 👋
 
+## I'm a Husband, Father, Developer, and Engineer!
+
 - :duck: I’m a Full Stack Developer; Certified By University of Oregon
-- 🌱 I’m currently learning Drupal, .NET, and Kentico CMS
-- 👯 I’m open to collaborate and meeting with fellow coders
+- :medal_military: US Air Force Veteran
+- 🌱 I’m currently working on a <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code - Python</a> on Udemy.
+- 👯 I’m open to collaborating and meeting with fellow coders
 - 📫 Happy to connect! --> <code><a href="https://www.linkedin.com/in/mark-kelly-9a1436160/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 - 😄 Pronouns: he/him
+- :robot: 2021 Goals: Learn ML and Contribute to Open Source Projects
 - ⚡ View My Portfolio Here --> <a href="https://www.markkelly.dev">www.MarkKelly.dev</a>
 <br><br>
 
