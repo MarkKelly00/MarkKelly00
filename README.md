@@ -1,6 +1,6 @@
 ### Hey there, I'm Mark 👋
 
-## I'm a Husband, Father, Developer, and Engineer!
+## I'm a Father, Developer, and Engineer!
 
 - :duck: I’m a Full Stack Developer; Certified By University of Oregon
 - :medal_military: US Air Force Veteran
