@@ -8,7 +8,7 @@
 - 👯 I’m open to collaborating and meeting with fellow coders
 - 📫 Happy to connect! --> <code><a href="https://www.linkedin.com/in/mark-kelly-9a1436160/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 - 😄 Pronouns: he/him
-- :robot: 2021 Goals: Learn ML and Contribute to Open Source Projects
+- :robot: 2025 Goals: Learn ML and Contribute to Open Source Projects
 - ⚡ View My Portfolio Here --> <a href="https://www.markkelly.dev">www.MarkKelly.dev</a>
 <br><br>
 
