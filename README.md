@@ -1,88 +1,71 @@
-<h2 align="center">Hey, I'm Mark Kelly 👋</h2>
-<p align="center">
-  Full-stack web developer building fast, conversion-focused e-commerce and modern headless storefronts.
-</p>
-<p align="center">
-  <a href="https://www.markkelly.dev">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/mark-kelly-9a1436160/">LinkedIn</a>
-</p>
+<div align="center">
+
+# Mark Kelly
+
+**Senior Full-Stack & Platform Engineer · Hands-on CTO**
+
+Building reliable products from idea to production — web applications, APIs, distributed systems, and developer tooling.
+
+[Portfolio](https://www.markkelly.dev) · [LinkedIn](https://www.linkedin.com/in/mark-kelly-9a1436160/) · [Email](mailto:kellymark0101@gmail.com)
+
+</div>
 
 ---
 
-### 🚀 What I’m focused on right now
-- Building **Purelyte** on Shopify **Hydrogen + Remix + Oxygen** (headless, SSR, performance).
-- **SkyHopper** A modern, addictive endless runner game for iOS featuring stunning visuals, immersive audio, and comprehensive social features. Built with Swift and SpriteKit.
-- Subscription systems, bundle logic, and custom customer account experiences.
-- 2025 goal: deeper ML fundamentals + meaningful open-source contributions.
+### What I bring
+
+I'm a Utah-based software engineer with **5+ years of professional development experience**, from consumer-facing applications to backend services and early-stage platforms. I care about product quality, pragmatic architecture, security, observability, and the details that make software dependable in production.
+
+- **Full-stack ownership:** React, Next.js, TypeScript, Node.js/NestJS, API design, databases, integrations, and deployments.
+- **Product engineering:** Customer journeys, ecommerce, subscriptions, experimentation, performance, and analytics.
+- **Platform engineering:** Authentication/authorization, asynchronous workflows, automated tests, operational tooling, and integration reliability.
+- **Technical leadership:** Architecture and implementation, cross-functional planning, technical tradeoffs, and hands-on delivery.
+- **AI-assisted workflows:** Coding agents and automation with review, testing, and human oversight.
+
+### Selected engineering experience
+
+> Much of my recent production work lives in **private commercial repositories**. The summaries below describe my contributions without publishing proprietary code or internal implementation details.
+
+**HydroJug / ACTA / Purelyte — Lead Web Developer & Full-Stack Engineer (2021–2026)**  
+Led development across multi-brand consumer storefronts and shared internal applications. Built frontend and backend features, improved performance, supported launches, integrated commerce services, and developed operational tools for analytics and workflows.
+
+**OrderFor — CTO / Product Engineering**  
+Hands-on engineering for a consumer ordering platform spanning mobile, web, admin tools, and backend APIs. Work includes payment and POS integrations, data modeling, reliability, automated tests, and secure access patterns.
+
+**Lodeo — CTO / Platform Architecture**  
+Architecture for secure network-connected services, cloud integrations, operational telemetry, and reliability. Focused on building systems that can be monitored, tested, and operated responsibly.
+
+### Public projects
+
+These repositories are representative **personal projects and earlier work**; they are not the source repositories for the commercial systems above.
+
+| Project | Focus |
+| --- | --- |
+| [Sudoku Evolved](https://github.com/MarkKelly00/Suduko-Evolved) | React Native, Expo, TypeScript; puzzle engine, application architecture, persistence, and testable game logic. |
+| [SkyHopper V2](https://github.com/MarkKelly00/SkyHopperV2) | Swift-based iOS game development and interactive experiences. |
+| [codeLocker](https://github.com/MarkKelly00/codeLocker) | Earlier MERN-stack code editor project featuring authentication and saved snippets. |
+
+See additional product work and demos on my [portfolio](https://www.markkelly.dev).
+
+### Technology
+
+**Core:** TypeScript · JavaScript · React · Next.js · Node.js · NestJS · HTML/CSS  
+**Data & APIs:** PostgreSQL · Prisma · Redis · Firebase · BigQuery · REST · GraphQL  
+**Platforms & integrations:** Shopify / Hydrogen · Square · Stripe · OAuth · Webhooks  
+**Engineering:** Git · CI/CD · Automated testing · Performance profiling · Observability · Cloudflare · Vercel
+
+### GitHub activity
+
+My GitHub contribution graph includes work from private repositories, but their source code and details remain private. The stats below are a *public GitHub activity indicator*, not a complete representation of my professional code or language experience.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkKelly00&show_icons=true&hide_border=true&theme=github_dark_dimmed&hide_rank=true" alt="Public GitHub activity statistics for Mark Kelly" />
+</div>
 
 ---
 
-### 👨‍👧‍👦 About me
-- Father of two, Utah based.
-- Full-Stack Developer @ **HydroJug** | **ACTA** | **Purelyte**.
-- U.S. Air Force Veteran (Missile & Space Systems Maintenance Technician).
-- Certified By University of Oregon :duck: 
-- CS50 (Harvard Extension) alum.
+**U.S. Air Force veteran** — Missile & Space Systems Maintenance Technician. The rigor of mission-critical maintenance still informs how I approach engineering: document assumptions, isolate failures, and build for reliability.
 
----
+**Interested in:** senior full-stack, frontend, platform, and software engineering opportunities in Utah or remote.
 
-### 🧩 Featured builds
-> A few things I’m proud of. More on my portfolio.
-
-- **Purelyte Headless Storefront** — Hydrogen/Remix storefront with subscriptions, bundles, and cross-sell cart UX.  
-- **OrderFor** — coalition loyalty + order-ahead platform with event/run-club integrations. 
-- **SkyHopperV2** — IOS SwiftUI 8Bit Game.  
-
-<!-- <p align="center">
-  <a href="https://github.com/HydroJug/purelyte">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HydroJug&repo=purelyte" />
-  </a>
-  <a href="https://github.com/MarkKelly00/SkyHopperV2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarkKelly00&repo=SkyHopperV2" />
-  </a>
-</p> -->
-
----
-
-### 🛠️ Tech stack (2025)
-**Frontend:** React, Remix, Hydrogen, Tailwind, Vite  
-**Backend:** Node.js, Express, GraphQL, REST  
-**Data:** MongoDB, MySQL  
-**E-commerce:** Shopify Admin API, Storefront API, Subscriptions  
-**Tooling:** GitHub Actions, Cloudflare, Ngrok, Figma
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify_Hydrogen-7AB55C?style=flat&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub by the numbers
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarkKelly00&show_icons=true&hide=issues&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkKelly00&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarkKelly00&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarkKelly00&hide_border=true" />
-</p>
----
-
-### 🤝 Let’s connect
-If you’re building something cool in e-commerce, headless, or performance-first web,
-I’m always down to chat.
+[Explore my work](https://www.markkelly.dev) · [Connect on LinkedIn](https://www.linkedin.com/in/mark-kelly-9a1436160/)
